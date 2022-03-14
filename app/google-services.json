@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "144456108201",
+    "project_id": "zoho-contact-app",
+    "storage_bucket": "zoho-contact-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144456108201:android:2c14f8b6c6398f87a841b8",
+        "android_client_info": {
+          "package_name": "com.example.zoho"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144456108201-met3f964pblq4gj8bi0sk6e2k31o2qmr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.zoho",
+            "certificate_hash": "ec535c9af03cc5acd8190fdfe0baacd5d25f46b3"
+          }
+        },
+        {
+          "client_id": "144456108201-i8rp24dmjc8v8rf6nbfu3v6f52l994r1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA73oTPH_h0FHYpEdwFjY8SWEjUzsWRBto"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "144456108201-i8rp24dmjc8v8rf6nbfu3v6f52l994r1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
